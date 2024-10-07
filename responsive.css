@@ -1,0 +1,281 @@
+
+
+
+/* header code start here  */
+
+
+@media(max-width:768px){
+    #con-text i{display: none;}
+    #con-text{display: none;}
+    #con-icon i{display: none;}
+    #con-icon{display: none;}
+    #con-btn{display: none;}
+    nav>#show-menu{display: none;}
+    #book{display: none;}
+    #book1{display: none;}
+    #phone{display: none;}
+    #menu-header{
+   
+    }
+    header{
+        grid-template-columns: 130px 1fr;max-height: 100px;
+    }
+    #logo-header{
+        background-color: black;grid-row-end: 3;height: 100px;
+    }
+    #logo-header img{width: 106px;height: 100px;margin-top: 0px;margin-left: 5px;}
+    #contact-header{height: 100px;background-color: black;}
+    .checkboxtoggler {display: block;}
+}
+
+@media(max-width:650px){
+    .checkboxtoggler {
+        right: -200px;
+    }
+}
+@media(max-width:600px){
+    .checkboxtoggler {
+        right: -150px;
+    }
+}
+@media(max-width:500px){
+    .checkboxtoggler {
+        right: -120px;
+    }
+}
+@media(max-width:430px){
+    .checkboxtoggler {
+        right: -82px;
+    }
+   
+}
+@media(max-width:350px){
+    .checkboxtoggler {
+        right: -55px;
+    }
+}
+
+
+/* header code start end  */
+
+
+/* hero section code start  */
+
+@media(max-width:768px){
+    #con-text i{display: none;}
+    #con-text{display: none;}
+    #con-icon i{display: none;}
+    #con-icon{display: none;}
+    #con-btn{display: none;}
+    nav>#show-menu{display: none;}
+    #book{display: none;}
+    #book1{display: none;}
+    #phone{display: none;}
+    #menu-header{
+   
+    }
+    header{
+        grid-template-columns: 130px 1fr;max-height: 100px;
+    }
+    #logo-header{
+        background-color: black;grid-row-end: 3;height: 100px;
+    }
+    #logo-header img{width: 106px;height: 100px;margin-top: 0px;margin-left: 5px;}
+    #contact-header{height: 100px;background-color: black;}
+    .checkboxtoggler {display: block;}
+}
+
+@media(max-width:650px){
+    .checkboxtoggler {
+        right: -200px;
+    }
+}
+@media(max-width:600px){
+    .checkboxtoggler {
+        right: -150px;
+    }
+}
+@media(max-width:500px){
+    .checkboxtoggler {
+        right: -120px;
+    }
+}
+@media(max-width:430px){
+    .checkboxtoggler {
+        right: -82px;
+    }
+   
+}
+@media(max-width:350px){
+    .checkboxtoggler {
+        right: -55px;
+    }
+}
+/* header contact all end start  */
+
+
+@media(max-width:768px){
+    #turn {font-size: 3vw;}
+    #into {
+        font-size: 3vw;}
+        #step {padding: 3px 0px ;}
+        #in::after {height: 55px;}
+        #body {height: 150vh;}
+}
+
+@media(max-width:500px){
+    #container{flex-direction: column;
+    width: 100%;}
+    #background{
+    height: 42vh;
+    }
+    #text {width: 100%;}
+    #turn{line-height: 30px;font-size: 5vw;}
+    #into{line-height: 30px;font-size: 5vw;}
+    #step {font-size: 1rem;padding: 0;}
+    #ten{font-size: 5vw;}
+    #years{font-size: 5vw;}
+    #ex{font-size: 5vw;}
+    #text {padding: 15px 10px;}
+    #no{font-size: 3.4vw;}
+    #one{font-size: 3.4vw;}
+    #in{font-size: 3.4vw;}
+    #in::after{height: 32px;width: 5px;}
+    #teach{
+        padding: 2px 0px 0px 0px;
+        font-size: 2vw;
+    }
+}
+
+/* hero section code end  */
+
+
+
+
+@media(max-width:768px){
+    #box-3-parent {
+        padding: 0;
+        grid-template-rows: 127px 30px;
+        grid-column-gap: 5px;
+
+    }
+}
+
+
+
+
+/* jcb responsive box code start here  */
+
+@media(max-width:768px){
+    #minasmargin {
+        position: relative;
+        top: -36%;
+        left: -47%;
+    }
+
+    #jcb-right img {
+        width: 203px;
+        height: 100px;
+    }
+    #jcb-left img {
+        width: 203px;
+        height: 100px;
+    }
+}
+
+@media(max-width:500px){
+    #jcb-right img {
+        width: 0px;
+        height: 0px;
+    }
+    #jcb-left img {
+        width: 0px;
+        height: 0px;
+    }
+    #jcb-center {flex: 5;}
+    #jcb-left{
+        flex: 0;
+    }
+    #jcb-right{
+        flex: 0;
+    }
+    .chosse1{font-size: 6vw;}
+    .chosse2{font-size: 6vw;}
+}
+/* jcb responsive box code end here  */
+
+
+
+
+/* our team member code start here
+
+*/
+
+@media(max-width:500px){
+
+    #team-container{
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        
+        margin: 0px 30px;
+    }
+    #background-second {
+        padding: 0px;
+    }
+}
+
+
+
+
+
+
+
+/* our team member code start here  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* gallery section start here  */
+
+
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "main-image"
+            "side-images"
+            "text-content";
+    }
+
+    .side-images {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: none;
+    }
+}
+
+
+/* Responsive for mobile */
+@media (max-width: 480px) {
+    .side-images {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(2, 1fr);
+    }
+
+    .read-more-btn {
+        padding: 8px 16px;
+    }
+}
+
+/* gallery section end here  */
